@@ -1,5 +1,11 @@
 # Student Course Registration System
 
+## Author
+**Amalokwu Emmanuel Ubachukwu**  
+Matric No: 24/14086  
+Department: Computer Science  
+
+
 ## Course
 SEN 201 – Software Engineering
 
